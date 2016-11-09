@@ -1,8 +1,8 @@
-var slider;
+// var slider;
 
 function setup() {
   noCanvas();
-  slider = createSlider(0, 60, 0);
+  // slider = createSlider(0, 60, 0);
 }
 
 function draw() {
